@@ -9,8 +9,8 @@ import java.math.BigInteger;
 
 public class App {
 
-    private CalcService calcService;
-    private ConsoleService consoleService;
+    private final CalcService calcService;
+    private final ConsoleService consoleService;
 
     public App() {
         calcService = CalcFactory.getInstance().getCalcService();

@@ -18,7 +18,7 @@ public class DefaultCalcService implements CalcService {
 
     @Override
     public BigInteger minus(BigInteger a, BigInteger b) {
-        return a.min(b);
+        return a.subtract(b);
     }
 
     @Override
