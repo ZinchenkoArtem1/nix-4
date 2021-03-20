@@ -2,6 +2,7 @@ package ua.com.zinchenko.impl;
 
 import ua.com.zinchenko.abstr.ConsoleService;
 
+import java.math.BigInteger;
 import java.util.Scanner;
 
 public class DefaultConsoleService implements ConsoleService {
@@ -21,7 +22,7 @@ public class DefaultConsoleService implements ConsoleService {
     }
 
     @Override
-    public int getNumberFromConsole() {
+    public int getIntFromConsole() {
         scanner = new Scanner(System.in);
         return scanner.nextInt();
     }
@@ -30,5 +31,11 @@ public class DefaultConsoleService implements ConsoleService {
     public String getStringFromConsole() {
         scanner = new Scanner(System.in);
         return scanner.next();
+    }
+
+    @Override
+    public BigInteger getBigIntegerFromConsole() {
+        scanner = new Scanner(System.in);
+        return new BigInteger(scanner.next());
     }
 }

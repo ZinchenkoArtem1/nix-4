@@ -22,28 +22,49 @@ public class App {
 
         while (isWork) {
             LoadMenu();
-            int task = consoleService.getNumberFromConsole();
+            int task = consoleService.getIntFromConsole();
+            BigInteger firstNum;
+            BigInteger secondNum;
             BigInteger res;
 
             switch (task) {
                 case 1:
-                    res = calcService.sum(GetNumberFromUserInput(), GetNumberFromUserInput());
+                    consoleService.printDefaultText("Input first number:");
+                    firstNum = consoleService.getBigIntegerFromConsole();
+                    consoleService.printDefaultText("Input second number:");
+                    secondNum = consoleService.getBigIntegerFromConsole();
+                    res = calcService.sum(firstNum, secondNum);
                     PrintResult(res.toString());
                     break;
                 case 2:
-                    res = calcService.minus(GetNumberFromUserInput(), GetNumberFromUserInput());
+                    consoleService.printDefaultText("Input first number:");
+                    firstNum = consoleService.getBigIntegerFromConsole();
+                    consoleService.printDefaultText("Input second number:");
+                    secondNum = consoleService.getBigIntegerFromConsole();
+                    res = calcService.minus(firstNum, secondNum);
                     PrintResult(res.toString());
                     break;
                 case 3:
-                    res = calcService.multi(GetNumberFromUserInput(), GetNumberFromUserInput());
+                    consoleService.printDefaultText("Input first number:");
+                    firstNum = consoleService.getBigIntegerFromConsole();
+                    consoleService.printDefaultText("Input second number:");
+                    secondNum = consoleService.getBigIntegerFromConsole();
+                    res = calcService.multi(firstNum, secondNum);
                     PrintResult(res.toString());
                     break;
                 case 4:
-                    res = calcService.divide(GetNumberFromUserInput(), GetNumberFromUserInput());
+                    consoleService.printDefaultText("Input first number:");
+                    firstNum = consoleService.getBigIntegerFromConsole();
+                    consoleService.printDefaultText("Input second number:");
+                    secondNum = consoleService.getBigIntegerFromConsole();
+                    res = calcService.divide(firstNum, secondNum);
                     PrintResult(res.toString());
                     break;
                 case 0:
                     isWork = false;
+                    break;
+                default:
+                    consoleService.printDefaultText("Wrong input");
             }
         }
     }
@@ -56,12 +77,6 @@ public class App {
         consoleService.printDefaultText("4. Divide");
         consoleService.printDefaultText("0. Exit app");
         consoleService.printDefaultText("Input number of task");
-    }
-
-    private BigInteger GetNumberFromUserInput() {
-        consoleService.printDefaultText("Input number:");
-        String numInStr = consoleService.getStringFromConsole();
-        return new BigInteger(numInStr);
     }
 
     private void PrintResult(String result) {
