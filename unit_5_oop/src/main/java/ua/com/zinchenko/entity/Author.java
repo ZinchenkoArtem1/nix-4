@@ -1,22 +1,25 @@
-package ua.com.zinchenko.data;
+package ua.com.zinchenko.entity;
 
-import java.util.LinkedList;
+import java.util.ArrayList;
 import java.util.List;
 
-public class Author {
+public class Author extends BaseEntity<Integer>{
 
+    private static Integer idCounter;
     private String name;
     private String surname;
     private List<Book> books;
 
     public Author() {
-        books = new LinkedList<>();
+        super(idCounter++);
+        books = new ArrayList<>();
     }
 
-    public Author(String name, String surname, List<Book> books) {
+    public Author(String name, String surname) {
+        super(idCounter++);
         this.name = name;
         this.surname = surname;
-        this.books = books;
+        this.books = new ArrayList<>();
     }
 
     public String getName() {
