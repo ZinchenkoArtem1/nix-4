@@ -8,16 +8,10 @@ import java.util.List;
 public interface BookService {
 
     Book getBookById(int id);
-
     List<Book> getAllBooks();
-
     void removeBook(Book Book);
-
     void updateBook(Book Book);
-
     void createBook(Book Book);
-
     List<Book> getByAuthor(Author author);
-
     Book getByName(String name);
 }

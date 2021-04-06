@@ -4,6 +4,7 @@ import org.junit.Assert;
 import org.junit.Test;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
+import org.mockito.Mock;
 import ua.com.zinchenko.entity.Author;
 import ua.com.zinchenko.entity.Book;
 import ua.com.zinchenko.repository.AuthorRepository;
@@ -13,7 +14,9 @@ import ua.com.zinchenko.service.impl.AuthorServiceImpl;
 
 public class AuthorServiceTest {
 
-    private final AuthorRepository authorRepository = new AuthorRepositoryImpl();
+    @Mock
+    private AuthorRepository authorRepository;
+
     private  final AuthorService authorService = new AuthorServiceImpl(authorRepository);
 
     @Test
