@@ -5,7 +5,6 @@ import org.junit.Assert;
 import org.junit.Test;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
-import org.mockito.Mock;
 import ua.com.zinchenko.entity.Author;
 import ua.com.zinchenko.entity.Book;
 import ua.com.zinchenko.repository.AuthorRepository;
