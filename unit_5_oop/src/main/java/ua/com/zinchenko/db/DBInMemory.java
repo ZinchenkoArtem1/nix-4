@@ -1,8 +1,10 @@
 package ua.com.zinchenko.db;
 
 import ua.com.zinchenko.entity.Author;
+import ua.com.zinchenko.entity.BaseEntity;
 import ua.com.zinchenko.entity.Book;
 
+import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -25,11 +27,14 @@ public class DBInMemory {
         return instance;
     }
 
-    public List<Author> getAuthors() {
-        return authors;
-    }
-
-    public List<Book> getBooks() {
-        return books;
+    public <TEntity extends BaseEntity<TKey>, TKey> List<TEntity> getEntities(Class<TEntity> type) {
+        if (type.equals(Author.class)) {
+            return (ArrayList<TEntity>) authors;
+        } else if (type.equals(Book.class)) {
+            return (ArrayList<TEntity>) books;
+        }
+        return null;
     }
 }
+
+

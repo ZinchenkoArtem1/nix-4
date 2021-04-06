@@ -5,11 +5,11 @@ import java.util.List;
 
 public class Book extends BaseEntity<Integer>{
 
-    private static Integer idCounter;
+    private static Integer idCounter = 0;
     private String name;
     private List<Author> authors;
 
-    private Book() {
+    public Book() {
         super(idCounter++);
         authors = new ArrayList<>();
     }

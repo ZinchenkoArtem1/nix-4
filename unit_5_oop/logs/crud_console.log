@@ -1,0 +1,1000 @@
+2021-04-05 21:03:03 INFO  BookServiceImpl:72 - Start author create
+2021-04-05 21:03:03 INFO  BookServiceImpl:83 - Finish author create
+2021-04-05 21:03:03 INFO  BookServiceImpl:22 - Start of finding author by id
+2021-04-05 21:03:03 ERROR BookServiceImpl:25 - Did not found author by id
+2021-04-05 21:03:35 INFO  BookServiceImpl:72 - Start author create
+2021-04-05 21:03:35 INFO  BookServiceImpl:83 - Finish author create
+2021-04-05 21:03:35 INFO  BookServiceImpl:22 - Start of finding author by id
+2021-04-05 21:03:35 ERROR BookServiceImpl:25 - Did not found author by id
+2021-04-05 21:03:43 INFO  BookServiceImpl:72 - Start author create
+2021-04-05 21:03:43 INFO  BookServiceImpl:83 - Finish author create
+2021-04-05 21:03:43 INFO  BookServiceImpl:22 - Start of finding author by id
+2021-04-05 21:03:43 INFO  BookServiceImpl:28 - Returning author
+2021-04-05 21:05:25 INFO  BookServiceImpl:72 - Start author create
+2021-04-05 21:05:25 INFO  BookServiceImpl:83 - Finish author create
+2021-04-05 21:05:25 INFO  BookServiceImpl:22 - Start of finding author by id
+2021-04-05 21:05:25 INFO  BookServiceImpl:28 - Returning author
+2021-04-05 21:05:34 INFO  BookServiceImpl:72 - Start author create
+2021-04-05 21:05:34 INFO  BookServiceImpl:83 - Finish author create
+2021-04-05 21:05:34 INFO  BookServiceImpl:22 - Start of finding author by id
+2021-04-05 21:05:34 ERROR BookServiceImpl:25 - Did not found author by id
+2021-04-05 21:05:52 INFO  BookServiceImpl:22 - Start of finding author by id
+2021-04-05 21:05:52 ERROR BookServiceImpl:25 - Did not found author by id
+2021-04-05 21:06:47 INFO  BookServiceImpl:72 - Start author create
+2021-04-05 21:06:47 INFO  BookServiceImpl:83 - Finish author create
+2021-04-05 21:06:47 INFO  BookServiceImpl:22 - Start of finding author by id
+2021-04-05 21:06:47 INFO  BookServiceImpl:28 - Returning author
+2021-04-05 21:08:15 INFO  BookServiceImpl:72 - Start author create
+2021-04-05 21:08:15 INFO  BookServiceImpl:83 - Finish author create
+2021-04-05 21:08:15 INFO  BookServiceImpl:72 - Start author create
+2021-04-05 21:08:15 INFO  BookServiceImpl:83 - Finish author create
+2021-04-05 21:08:15 INFO  BookServiceImpl:22 - Start of finding author by id
+2021-04-05 21:08:15 INFO  BookServiceImpl:28 - Returning author
+2021-04-05 21:08:15 INFO  BookServiceImpl:22 - Start of finding author by id
+2021-04-05 21:08:15 INFO  BookServiceImpl:28 - Returning author
+2021-04-06 11:30:40 INFO  BookServiceImpl:104 - Start books search by name
+2021-04-06 11:30:40 ERROR BookServiceImpl:107 - Don't exist books with name: bookName0
+2021-04-06 11:30:58 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:30:58 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:30:58 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:30:58 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:30:58 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:30:58 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:30:58 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:30:58 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:30:58 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:30:58 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:30:58 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:30:58 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:30:58 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:30:58 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:30:58 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:30:58 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:30:58 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:30:58 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:30:58 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:30:58 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:30:58 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:30:58 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:30:58 INFO  BookServiceImpl:100 - Start authors search by name
+2021-04-06 11:30:58 INFO  BookServiceImpl:108 - Finish authors search by name
+2021-04-06 11:30:58 INFO  BookServiceImpl:60 - Start author update
+2021-04-06 11:30:58 INFO  BookServiceImpl:67 - Finish author update
+2021-04-06 11:30:58 INFO  BookServiceImpl:22 - Start of finding author by id
+2021-04-06 11:30:58 INFO  BookServiceImpl:28 - Returning author
+2021-04-06 11:30:58 INFO  BookServiceImpl:104 - Start books search by name
+2021-04-06 11:30:58 ERROR BookServiceImpl:107 - Don't exist books with name: bookName0
+2021-04-06 11:31:33 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:31:33 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:31:33 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:31:33 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:31:33 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:31:33 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:31:33 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:31:33 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:31:33 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:31:33 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:31:33 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:31:33 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:31:33 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:31:33 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:31:33 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:31:33 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:31:33 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:31:33 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:31:33 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:31:33 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:31:33 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:31:33 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:31:33 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:31:33 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:31:33 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:31:33 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:31:33 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:31:33 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:31:33 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:31:33 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:31:33 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:31:33 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:31:33 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:31:33 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:31:33 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:31:33 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:31:33 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:31:33 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:31:33 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:31:33 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:31:33 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:31:33 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:31:33 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:31:33 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:31:33 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:31:33 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:31:33 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:31:33 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:31:33 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:31:33 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:31:33 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:31:33 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:31:33 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:31:33 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:31:33 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:31:33 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:31:33 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:31:33 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:31:33 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:31:33 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:31:33 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:31:33 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:31:33 INFO  BookServiceImpl:42 - Start of finding all books
+2021-04-06 11:31:33 INFO  BookServiceImpl:48 - Returning all books
+2021-04-06 11:31:33 INFO  BookServiceImpl:100 - Start authors search by name
+2021-04-06 11:31:33 INFO  BookServiceImpl:108 - Finish authors search by name
+2021-04-06 11:31:33 INFO  BookServiceImpl:60 - Start author update
+2021-04-06 11:31:33 INFO  BookServiceImpl:67 - Finish author update
+2021-04-06 11:31:33 INFO  BookServiceImpl:22 - Start of finding author by id
+2021-04-06 11:31:33 INFO  BookServiceImpl:28 - Returning author
+2021-04-06 11:31:33 INFO  BookServiceImpl:104 - Start books search by name
+2021-04-06 11:31:33 INFO  BookServiceImpl:110 - Finish books search by name
+2021-04-06 11:32:45 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:32:45 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:32:45 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:32:45 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:32:45 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:32:45 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:32:45 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:32:45 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:32:45 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:32:45 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:32:45 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:32:45 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:32:45 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:32:45 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:32:45 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:32:45 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:32:45 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:32:45 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:32:45 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:32:45 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:32:45 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:32:45 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:32:45 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:32:45 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:32:45 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:32:45 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:32:45 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:32:45 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:32:45 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:32:45 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:32:45 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:32:45 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:32:45 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:32:45 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:32:45 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:32:45 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:32:45 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:32:45 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:32:45 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:32:45 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:32:45 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:32:45 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:32:45 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:32:45 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:32:45 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:32:45 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:32:45 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:32:45 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:32:45 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:32:45 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:32:45 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:32:45 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:32:45 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:32:45 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:32:45 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:32:45 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:32:45 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:32:45 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:32:45 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:32:45 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:32:45 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:32:45 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:32:45 INFO  BookServiceImpl:42 - Start of finding all books
+2021-04-06 11:32:45 INFO  BookServiceImpl:48 - Returning all books
+2021-04-06 11:32:45 INFO  BookServiceImpl:100 - Start authors search by name
+2021-04-06 11:32:45 INFO  BookServiceImpl:108 - Finish authors search by name
+2021-04-06 11:32:45 INFO  BookServiceImpl:60 - Start author update
+2021-04-06 11:32:45 INFO  BookServiceImpl:67 - Finish author update
+2021-04-06 11:32:45 INFO  BookServiceImpl:22 - Start of finding author by id
+2021-04-06 11:32:45 INFO  BookServiceImpl:28 - Returning author
+2021-04-06 11:32:45 INFO  BookServiceImpl:104 - Start books search by name
+2021-04-06 11:32:45 INFO  BookServiceImpl:110 - Finish books search by name
+2021-04-06 11:32:52 INFO  BookServiceImpl:104 - Start books search by name
+2021-04-06 11:32:52 ERROR BookServiceImpl:107 - Don't exist books with name: bookName1
+2021-04-06 11:33:04 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:33:04 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:33:04 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:33:04 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:33:04 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:33:04 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:33:04 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:33:04 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:33:04 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:33:04 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:33:04 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:33:04 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:33:04 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:33:04 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:33:04 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:33:04 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:33:04 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:33:04 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:33:04 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:33:04 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:33:04 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:33:04 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:33:04 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:33:04 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:33:04 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:33:04 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:33:04 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:33:04 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:33:04 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:33:04 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:33:04 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:33:04 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:33:04 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:33:04 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:33:04 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:33:04 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:33:04 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:33:04 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:33:04 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:33:04 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:33:04 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:33:04 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:33:04 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:33:04 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:33:04 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:33:04 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:33:04 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:33:04 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:33:04 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:33:04 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:33:04 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:33:04 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:33:04 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:33:04 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:33:04 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:33:04 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:33:04 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:33:04 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:33:04 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:33:04 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:33:04 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:33:04 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:33:04 INFO  BookServiceImpl:42 - Start of finding all books
+2021-04-06 11:33:04 INFO  BookServiceImpl:48 - Returning all books
+2021-04-06 11:33:04 INFO  BookServiceImpl:100 - Start authors search by name
+2021-04-06 11:33:04 INFO  BookServiceImpl:108 - Finish authors search by name
+2021-04-06 11:33:04 INFO  BookServiceImpl:60 - Start author update
+2021-04-06 11:33:04 INFO  BookServiceImpl:67 - Finish author update
+2021-04-06 11:33:04 INFO  BookServiceImpl:22 - Start of finding author by id
+2021-04-06 11:33:04 INFO  BookServiceImpl:28 - Returning author
+2021-04-06 11:33:04 INFO  BookServiceImpl:104 - Start books search by name
+2021-04-06 11:33:04 INFO  BookServiceImpl:110 - Finish books search by name
+2021-04-06 11:37:33 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:37:33 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:37:33 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:37:33 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:37:33 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:37:33 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:37:33 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:37:33 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:37:33 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:37:33 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:37:33 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:37:33 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:37:33 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:37:33 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:37:33 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:37:33 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:37:33 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:37:33 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:37:33 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:37:33 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:37:33 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:37:33 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:37:33 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:37:33 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:37:33 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:37:33 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:37:33 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:37:33 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:37:33 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:37:33 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:37:33 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:37:33 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:37:33 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:37:33 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:37:33 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:37:33 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:37:33 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:37:33 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:37:33 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:37:33 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:37:33 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:37:33 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:37:33 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:37:33 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:37:33 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:37:33 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:37:33 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:37:33 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:37:33 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:37:33 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:37:33 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:37:33 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:37:33 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:37:33 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:37:33 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:37:33 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:37:33 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:37:33 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:37:33 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:37:33 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:37:33 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:37:33 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:37:33 INFO  BookServiceImpl:42 - Start of finding all books
+2021-04-06 11:37:33 INFO  BookServiceImpl:48 - Returning all books
+2021-04-06 11:37:33 INFO  BookServiceImpl:100 - Start authors search by name
+2021-04-06 11:37:33 INFO  BookServiceImpl:108 - Finish authors search by name
+2021-04-06 11:37:33 INFO  BookServiceImpl:60 - Start author update
+2021-04-06 11:37:33 INFO  BookServiceImpl:67 - Finish author update
+2021-04-06 11:37:33 INFO  BookServiceImpl:22 - Start of finding author by id
+2021-04-06 11:37:33 INFO  BookServiceImpl:28 - Returning author
+2021-04-06 11:37:33 INFO  BookServiceImpl:100 - Start authors search by name
+2021-04-06 11:37:33 INFO  BookServiceImpl:108 - Finish authors search by name
+2021-04-06 11:37:33 INFO  BookServiceImpl:104 - Start books search by name
+2021-04-06 11:37:33 INFO  BookServiceImpl:110 - Finish books search by name
+2021-04-06 11:37:33 INFO  BookServiceImpl:100 - Start authors search by name
+2021-04-06 11:37:33 INFO  BookServiceImpl:108 - Finish authors search by name
+2021-04-06 11:37:33 INFO  BookServiceImpl:48 - Start author remove
+2021-04-06 11:37:33 INFO  BookServiceImpl:55 - Finish author remove
+2021-04-06 11:37:33 INFO  BookServiceImpl:100 - Start authors search by name
+2021-04-06 11:37:33 INFO  BookServiceImpl:108 - Finish authors search by name
+2021-04-06 11:38:33 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:38:33 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:38:33 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:38:33 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:38:33 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:38:33 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:38:33 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:38:33 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:38:33 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:38:33 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:38:33 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:38:33 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:38:33 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:38:33 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:38:33 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:38:33 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:38:33 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:38:33 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:38:33 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:38:33 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:38:33 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:38:33 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:38:33 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:38:33 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:38:33 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:38:33 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:38:33 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:38:33 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:38:33 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:38:33 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:38:33 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:38:33 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:38:33 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:38:33 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:38:33 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:38:33 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:38:33 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:38:33 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:38:33 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:38:33 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:38:33 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:38:33 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:38:33 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:38:33 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:38:33 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:38:33 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:38:33 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:38:33 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:38:33 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:38:33 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:38:33 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:38:33 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:38:33 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:38:33 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:38:33 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:38:33 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:38:33 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:38:33 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:38:33 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:38:33 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:38:33 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:38:33 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:38:33 INFO  BookServiceImpl:42 - Start of finding all books
+2021-04-06 11:38:33 INFO  BookServiceImpl:48 - Returning all books
+2021-04-06 11:38:33 INFO  BookServiceImpl:100 - Start authors search by name
+2021-04-06 11:38:33 INFO  BookServiceImpl:108 - Finish authors search by name
+2021-04-06 11:38:33 INFO  BookServiceImpl:60 - Start author update
+2021-04-06 11:38:33 INFO  BookServiceImpl:67 - Finish author update
+2021-04-06 11:38:33 INFO  BookServiceImpl:22 - Start of finding author by id
+2021-04-06 11:38:33 INFO  BookServiceImpl:28 - Returning author
+2021-04-06 11:38:34 INFO  BookServiceImpl:100 - Start authors search by name
+2021-04-06 11:38:34 INFO  BookServiceImpl:108 - Finish authors search by name
+2021-04-06 11:38:34 INFO  BookServiceImpl:104 - Start books search by name
+2021-04-06 11:38:34 INFO  BookServiceImpl:110 - Finish books search by name
+2021-04-06 11:38:34 INFO  BookServiceImpl:100 - Start authors search by name
+2021-04-06 11:38:34 ERROR BookServiceImpl:105 - Don't exist author with name: authorName0 authorSurname0
+2021-04-06 11:38:50 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:38:50 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:38:50 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:38:50 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:38:50 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:38:50 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:38:50 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:38:50 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:38:50 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:38:50 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:38:50 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:38:50 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:38:50 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:38:50 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:38:50 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:38:50 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:38:50 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:38:50 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:38:50 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:38:50 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:38:50 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:38:50 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:38:50 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:38:50 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:38:50 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:38:50 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:38:50 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:38:50 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:38:50 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:38:50 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:38:50 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:38:50 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:38:50 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:38:50 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:38:50 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:38:50 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:38:50 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:38:50 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:38:50 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:38:50 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:38:50 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:38:50 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:38:50 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:38:50 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:38:50 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:38:50 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:38:50 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:38:50 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:38:50 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:38:50 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:38:50 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:38:50 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:38:50 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:38:50 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:38:50 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:38:50 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:38:50 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:38:50 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:38:50 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:38:50 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:38:50 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:38:50 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:38:50 INFO  BookServiceImpl:42 - Start of finding all books
+2021-04-06 11:38:50 INFO  BookServiceImpl:48 - Returning all books
+2021-04-06 11:38:50 INFO  BookServiceImpl:100 - Start authors search by name
+2021-04-06 11:38:50 INFO  BookServiceImpl:108 - Finish authors search by name
+2021-04-06 11:38:50 INFO  BookServiceImpl:60 - Start author update
+2021-04-06 11:38:50 INFO  BookServiceImpl:67 - Finish author update
+2021-04-06 11:38:50 INFO  BookServiceImpl:22 - Start of finding author by id
+2021-04-06 11:38:50 INFO  BookServiceImpl:28 - Returning author
+2021-04-06 11:38:50 INFO  BookServiceImpl:100 - Start authors search by name
+2021-04-06 11:38:50 INFO  BookServiceImpl:108 - Finish authors search by name
+2021-04-06 11:38:50 INFO  BookServiceImpl:104 - Start books search by name
+2021-04-06 11:38:50 INFO  BookServiceImpl:110 - Finish books search by name
+2021-04-06 11:38:50 INFO  BookServiceImpl:100 - Start authors search by name
+2021-04-06 11:38:50 INFO  BookServiceImpl:108 - Finish authors search by name
+2021-04-06 11:38:50 INFO  BookServiceImpl:48 - Start author remove
+2021-04-06 11:38:50 INFO  BookServiceImpl:55 - Finish author remove
+2021-04-06 11:38:50 INFO  BookServiceImpl:100 - Start authors search by name
+2021-04-06 11:38:50 INFO  BookServiceImpl:108 - Finish authors search by name
+2021-04-06 11:41:22 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:41:22 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:41:22 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:41:22 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:41:22 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:41:22 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:41:22 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:41:22 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:41:22 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:41:22 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:41:22 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:41:22 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:41:22 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:41:22 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:41:22 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:41:22 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:41:22 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:41:22 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:41:22 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:41:22 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:41:22 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:41:22 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:41:22 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:41:22 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:41:22 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:41:22 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:41:22 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:41:22 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:41:22 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:41:22 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:41:22 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:41:22 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:41:22 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:41:22 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:41:22 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:41:22 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:41:22 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:41:22 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:41:22 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:41:22 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:41:22 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:41:22 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:41:22 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:41:22 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:41:22 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:41:22 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:41:22 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:41:22 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:41:22 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:41:22 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:41:22 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:41:22 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:41:22 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:41:22 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:41:22 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:41:22 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:41:22 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:41:22 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:41:22 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:41:22 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:41:22 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:41:22 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:41:22 INFO  BookServiceImpl:42 - Start of finding all books
+2021-04-06 11:41:22 INFO  BookServiceImpl:48 - Returning all books
+2021-04-06 11:41:22 INFO  BookServiceImpl:100 - Start authors search by name
+2021-04-06 11:41:22 INFO  BookServiceImpl:108 - Finish authors search by name
+2021-04-06 11:41:22 INFO  BookServiceImpl:60 - Start author update
+2021-04-06 11:41:22 INFO  BookServiceImpl:67 - Finish author update
+2021-04-06 11:41:22 INFO  BookServiceImpl:22 - Start of finding author by id
+2021-04-06 11:41:22 INFO  BookServiceImpl:28 - Returning author
+2021-04-06 11:41:22 INFO  BookServiceImpl:100 - Start authors search by name
+2021-04-06 11:41:22 INFO  BookServiceImpl:108 - Finish authors search by name
+2021-04-06 11:41:22 INFO  BookServiceImpl:104 - Start books search by name
+2021-04-06 11:41:22 INFO  BookServiceImpl:110 - Finish books search by name
+2021-04-06 11:41:22 INFO  BookServiceImpl:100 - Start authors search by name
+2021-04-06 11:41:22 INFO  BookServiceImpl:108 - Finish authors search by name
+2021-04-06 11:41:22 INFO  BookServiceImpl:48 - Start author remove
+2021-04-06 11:41:22 INFO  BookServiceImpl:55 - Finish author remove
+2021-04-06 11:41:22 INFO  BookServiceImpl:100 - Start authors search by name
+2021-04-06 11:41:22 ERROR BookServiceImpl:105 - Don't exist author with name: authorName5 authorSurname5
+2021-04-06 11:42:26 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:42:26 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:42:26 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:42:26 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:42:26 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:42:26 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:42:26 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:42:26 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:42:26 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:42:26 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:42:26 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:42:26 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:42:26 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:42:26 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:42:26 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:42:26 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:42:26 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:42:26 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:42:26 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:42:26 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:42:26 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:42:26 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:42:26 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:42:26 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:42:26 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:42:26 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:42:26 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:42:26 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:42:26 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:42:26 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:42:26 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:42:26 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:42:26 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:42:26 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:42:26 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:42:26 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:42:26 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:42:26 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:42:26 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:42:26 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:42:26 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:42:26 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:42:26 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:42:26 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:42:26 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:42:26 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:42:26 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:42:26 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:42:26 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:42:26 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:42:26 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:42:26 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:42:26 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:42:26 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:42:26 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:42:26 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:42:26 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:42:26 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:42:26 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:42:26 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:42:26 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:42:26 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:42:26 INFO  BookServiceImpl:42 - Start of finding all books
+2021-04-06 11:42:26 INFO  BookServiceImpl:48 - Returning all books
+2021-04-06 11:42:26 INFO  BookServiceImpl:100 - Start authors search by name
+2021-04-06 11:42:26 INFO  BookServiceImpl:108 - Finish authors search by name
+2021-04-06 11:42:26 INFO  BookServiceImpl:60 - Start author update
+2021-04-06 11:42:26 INFO  BookServiceImpl:67 - Finish author update
+2021-04-06 11:42:26 INFO  BookServiceImpl:22 - Start of finding author by id
+2021-04-06 11:42:26 INFO  BookServiceImpl:28 - Returning author
+2021-04-06 11:42:26 INFO  BookServiceImpl:100 - Start authors search by name
+2021-04-06 11:42:26 INFO  BookServiceImpl:108 - Finish authors search by name
+2021-04-06 11:42:26 INFO  BookServiceImpl:104 - Start books search by name
+2021-04-06 11:42:26 INFO  BookServiceImpl:110 - Finish books search by name
+2021-04-06 11:42:26 INFO  BookServiceImpl:100 - Start authors search by name
+2021-04-06 11:42:26 INFO  BookServiceImpl:108 - Finish authors search by name
+2021-04-06 11:42:26 INFO  BookServiceImpl:48 - Start author remove
+2021-04-06 11:42:26 INFO  BookServiceImpl:55 - Finish author remove
+2021-04-06 11:42:26 INFO  BookServiceImpl:100 - Start authors search by name
+2021-04-06 11:42:26 ERROR BookServiceImpl:105 - Don't exist author with name: authorName2 authorSurname2
+2021-04-06 11:49:08 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:49:08 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:49:08 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:49:08 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:49:08 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:49:08 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:49:08 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:49:08 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:49:08 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:49:08 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:49:08 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:49:08 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:49:08 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:49:08 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:49:08 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:49:08 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:49:08 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:49:08 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:49:08 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:49:08 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:49:08 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:49:08 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:49:08 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:49:08 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:49:08 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:49:08 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:49:08 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:49:08 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:49:08 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:49:08 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:49:08 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:49:08 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:49:08 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:49:08 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:49:08 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:49:08 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:49:08 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:49:08 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:49:08 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:49:08 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:49:08 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:49:08 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:49:08 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:49:08 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:49:08 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:49:08 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:49:08 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:49:08 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:49:08 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:49:08 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:49:08 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:49:08 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:49:08 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:49:08 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:49:08 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:49:08 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:49:08 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:49:08 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:49:08 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:49:08 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:49:08 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:49:08 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:49:08 INFO  BookServiceImpl:42 - Start of finding all books
+2021-04-06 11:49:08 INFO  BookServiceImpl:48 - Returning all books
+2021-04-06 11:49:08 INFO  BookServiceImpl:100 - Start authors search by name
+2021-04-06 11:49:08 INFO  BookServiceImpl:108 - Finish authors search by name
+2021-04-06 11:49:08 INFO  BookServiceImpl:60 - Start author update
+2021-04-06 11:49:08 INFO  BookServiceImpl:67 - Finish author update
+2021-04-06 11:49:08 INFO  BookServiceImpl:22 - Start of finding author by id
+2021-04-06 11:49:08 INFO  BookServiceImpl:28 - Returning author
+2021-04-06 11:49:08 INFO  BookServiceImpl:100 - Start authors search by name
+2021-04-06 11:49:08 INFO  BookServiceImpl:108 - Finish authors search by name
+2021-04-06 11:49:08 INFO  BookServiceImpl:104 - Start books search by name
+2021-04-06 11:49:08 INFO  BookServiceImpl:110 - Finish books search by name
+2021-04-06 11:49:08 INFO  BookServiceImpl:100 - Start authors search by name
+2021-04-06 11:49:08 INFO  BookServiceImpl:108 - Finish authors search by name
+2021-04-06 11:49:08 INFO  BookServiceImpl:48 - Start author remove
+2021-04-06 11:49:08 INFO  BookServiceImpl:55 - Finish author remove
+2021-04-06 11:49:08 INFO  BookServiceImpl:100 - Start authors search by name
+2021-04-06 11:49:08 ERROR BookServiceImpl:105 - Don't exist author with name: authorName2 authorSurname2
+2021-04-06 11:52:00 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:52:00 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:52:00 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:52:00 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:52:00 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:52:00 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:52:00 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:52:00 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:52:00 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:52:00 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:52:00 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:52:00 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:52:00 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:52:00 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:52:00 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:52:00 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:52:00 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:52:00 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:52:00 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:52:00 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:52:00 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:52:00 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:52:00 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:52:00 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:52:00 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:52:00 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:52:00 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:52:00 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:52:00 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:52:00 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:52:00 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:52:00 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:52:00 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:52:00 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:52:00 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:52:00 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:52:00 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:52:00 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:52:00 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:52:00 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:52:00 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:52:00 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:52:00 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:52:00 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:52:00 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:52:00 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:52:00 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:52:00 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:52:00 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:52:00 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:52:00 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:52:00 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:52:00 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:52:00 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:52:00 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:52:00 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:52:00 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:52:00 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:52:00 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:52:00 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:52:00 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:52:00 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:52:00 INFO  BookServiceImpl:42 - Start of finding all books
+2021-04-06 11:52:00 INFO  BookServiceImpl:48 - Returning all books
+2021-04-06 11:52:00 INFO  BookServiceImpl:100 - Start authors search by name
+2021-04-06 11:52:00 INFO  BookServiceImpl:108 - Finish authors search by name
+2021-04-06 11:52:00 INFO  BookServiceImpl:60 - Start author update
+2021-04-06 11:52:00 INFO  BookServiceImpl:67 - Finish author update
+2021-04-06 11:52:00 INFO  BookServiceImpl:22 - Start of finding author by id
+2021-04-06 11:52:00 INFO  BookServiceImpl:28 - Returning author
+2021-04-06 11:52:00 INFO  BookServiceImpl:100 - Start authors search by name
+2021-04-06 11:52:00 INFO  BookServiceImpl:108 - Finish authors search by name
+2021-04-06 11:52:00 INFO  BookServiceImpl:104 - Start books search by name
+2021-04-06 11:52:00 INFO  BookServiceImpl:110 - Finish books search by name
+2021-04-06 11:52:00 INFO  BookServiceImpl:100 - Start authors search by name
+2021-04-06 11:52:00 INFO  BookServiceImpl:108 - Finish authors search by name
+2021-04-06 11:52:00 INFO  BookServiceImpl:48 - Start author remove
+2021-04-06 11:52:00 INFO  BookServiceImpl:55 - Finish author remove
+2021-04-06 11:52:00 INFO  BookServiceImpl:100 - Start authors search by name
+2021-04-06 11:52:00 ERROR BookServiceImpl:105 - Don't exist author with name: authorName2 authorSurname2
+2021-04-06 11:53:57 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:53:57 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:53:57 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:53:57 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:53:57 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:53:57 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:53:57 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:53:57 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:53:57 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:53:57 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:53:57 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:53:57 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:53:57 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:53:57 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:53:57 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:53:57 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:53:57 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:53:57 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:53:57 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:53:57 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:53:57 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:53:57 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:53:57 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:53:57 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:53:57 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:53:57 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:53:57 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:53:57 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:53:57 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:53:57 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:53:57 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:53:57 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:53:57 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:53:57 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:53:57 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:53:57 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:53:57 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:53:57 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:53:57 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:53:57 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:53:57 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:53:57 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:53:57 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:53:57 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:53:57 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:53:57 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:53:57 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:53:57 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:53:57 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:53:57 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:53:57 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:53:57 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:53:57 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:53:57 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:53:57 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:53:57 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:53:57 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:53:57 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:53:57 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:53:57 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:53:57 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:53:57 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:53:57 INFO  BookServiceImpl:42 - Start of finding all books
+2021-04-06 11:53:57 INFO  BookServiceImpl:48 - Returning all books
+2021-04-06 11:53:57 INFO  BookServiceImpl:100 - Start authors search by name
+2021-04-06 11:53:57 INFO  BookServiceImpl:108 - Finish authors search by name
+2021-04-06 11:53:57 INFO  BookServiceImpl:60 - Start author update
+2021-04-06 11:53:57 INFO  BookServiceImpl:67 - Finish author update
+2021-04-06 11:53:57 INFO  BookServiceImpl:22 - Start of finding author by id
+2021-04-06 11:53:57 INFO  BookServiceImpl:28 - Returning author
+2021-04-06 11:53:57 INFO  BookServiceImpl:100 - Start authors search by name
+2021-04-06 11:53:57 INFO  BookServiceImpl:108 - Finish authors search by name
+2021-04-06 11:53:57 INFO  BookServiceImpl:104 - Start books search by name
+2021-04-06 11:53:57 INFO  BookServiceImpl:110 - Finish books search by name
+2021-04-06 11:53:57 INFO  BookServiceImpl:100 - Start authors search by name
+2021-04-06 11:53:57 INFO  BookServiceImpl:108 - Finish authors search by name
+2021-04-06 11:53:57 INFO  BookServiceImpl:48 - Start author remove
+2021-04-06 11:53:57 INFO  BookServiceImpl:55 - Finish author remove
+2021-04-06 11:53:57 INFO  BookServiceImpl:100 - Start authors search by name
+2021-04-06 11:53:57 ERROR BookServiceImpl:105 - Don't exist author with name: authorName2 authorSurname2
+2021-04-06 11:54:45 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:54:45 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:54:45 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:54:45 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:54:45 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:54:45 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:54:45 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:54:45 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:54:45 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:54:45 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:54:45 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:54:45 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:54:45 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:54:45 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:54:45 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:54:45 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:54:45 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:54:45 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:54:45 INFO  BookServiceImpl:72 - Start author create
+2021-04-06 11:54:45 INFO  BookServiceImpl:83 - Finish author create
+2021-04-06 11:54:45 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:54:45 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:54:45 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:54:45 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:54:45 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:54:45 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:54:45 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:54:45 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:54:45 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:54:45 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:54:45 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:54:45 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:54:45 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:54:45 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:54:45 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:54:45 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:54:45 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:54:45 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:54:45 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:54:45 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:54:45 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:54:45 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:54:45 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:54:45 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:54:45 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:54:45 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:54:45 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:54:45 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:54:45 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:54:45 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:54:45 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:54:45 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:54:45 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:54:45 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:54:45 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:54:45 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:54:45 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:54:45 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:54:45 INFO  BookServiceImpl:35 - Start of finding all authors
+2021-04-06 11:54:45 INFO  BookServiceImpl:41 - Returning all authors
+2021-04-06 11:54:45 INFO  BookServiceImpl:79 - Start book create
+2021-04-06 11:54:45 INFO  BookServiceImpl:87 - Finish book create
+2021-04-06 11:54:45 INFO  BookServiceImpl:42 - Start of finding all books
+2021-04-06 11:54:45 INFO  BookServiceImpl:48 - Returning all books
+2021-04-06 11:54:45 INFO  BookServiceImpl:100 - Start authors search by name
+2021-04-06 11:54:45 INFO  BookServiceImpl:108 - Finish authors search by name
+2021-04-06 11:54:45 INFO  BookServiceImpl:60 - Start author update
+2021-04-06 11:54:45 INFO  BookServiceImpl:67 - Finish author update
+2021-04-06 11:54:45 INFO  BookServiceImpl:22 - Start of finding author by id
+2021-04-06 11:54:45 INFO  BookServiceImpl:28 - Returning author
+2021-04-06 11:54:45 INFO  BookServiceImpl:100 - Start authors search by name
+2021-04-06 11:54:45 INFO  BookServiceImpl:108 - Finish authors search by name
+2021-04-06 11:54:45 INFO  BookServiceImpl:104 - Start books search by name
+2021-04-06 11:54:45 INFO  BookServiceImpl:110 - Finish books search by name
+2021-04-06 11:54:45 INFO  BookServiceImpl:100 - Start authors search by name
+2021-04-06 11:54:45 INFO  BookServiceImpl:108 - Finish authors search by name
+2021-04-06 11:54:45 INFO  BookServiceImpl:48 - Start author remove
+2021-04-06 11:54:45 INFO  BookServiceImpl:55 - Finish author remove
+2021-04-06 11:54:45 INFO  BookServiceImpl:100 - Start authors search by name
+2021-04-06 11:54:45 ERROR BookServiceImpl:105 - Don't exist author with name: authorName2 authorSurname2
